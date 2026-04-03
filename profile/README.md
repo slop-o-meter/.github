@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="media/banner.png" alt="Can We Measure Software Slop?" width="100%" />
+  <img src="media/banner.avif" alt="Can We Measure Software Slop?" width="100%" />
 </p>
 
 An experiment with questionable results.
