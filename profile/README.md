@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/media/banner.avif" alt="Can We Measure Software Slop?" width="100%" />
+  <img src="https://raw.githubusercontent.com/slop-o-meter/slop-o-meter/main/docs/media/banner.avif" alt="Can We Measure Software Slop?" width="100%" />
 </p>
 
 An experiment with questionable results.
@@ -17,11 +17,11 @@ spent**), we can calculate how "sloppy" it is.
 
 | Score |                                                                                         | Name                    | Description                       |
 | :---: | :-------------------------------------------------------------------------------------: | ----------------------- | --------------------------------- |
-|   1   |    <img src="docs/media/1.buttered-noodles.png" alt="Buttered Noodles" width="64" />    | **Buttered Noodles**    | Slop? Too dated to have any.      |
-|   2   | <img src="docs/media/2.spaghetti-bolognese.png" alt="Spaghetti Bolognese" width="64" /> | **Spaghetti Bolognese** | A little sauce never hurt.        |
-|   3   |             <img src="docs/media/3.lasagna.png" alt="Lasagna" width="64" />             | **Lasagna**             | Lots of slop, but with structure. |
-|   4   |          <img src="docs/media/4.sloppy-joe.png" alt="Sloppy Joe" width="64" />          | **Sloppy Joe**          | Containment is just pretense.     |
-|   5   |       <img src="docs/media/5.just-the-slop.png" alt="Just The Slop" width="64" />       | **Just The Slop**       | Pure. Proud. Let it flow.         |
+|   1   |    <img src="https://raw.githubusercontent.com/slop-o-meter/slop-o-meter/main/docs/media/1.buttered-noodles.png" alt="Buttered Noodles" width="64" />    | **Buttered Noodles**    | Slop? Too dated to have any.      |
+|   2   | <img src="https://raw.githubusercontent.com/slop-o-meter/slop-o-meter/main/docs/media/2.spaghetti-bolognese.png" alt="Spaghetti Bolognese" width="64" /> | **Spaghetti Bolognese** | A little sauce never hurt.        |
+|   3   |             <img src="https://raw.githubusercontent.com/slop-o-meter/slop-o-meter/main/docs/media/3.lasagna.png" alt="Lasagna" width="64" />             | **Lasagna**             | Lots of slop, but with structure. |
+|   4   |          <img src="https://raw.githubusercontent.com/slop-o-meter/slop-o-meter/main/docs/media/4.sloppy-joe.png" alt="Sloppy Joe" width="64" />          | **Sloppy Joe**          | Containment is just pretense.     |
+|   5   |       <img src="https://raw.githubusercontent.com/slop-o-meter/slop-o-meter/main/docs/media/5.just-the-slop.png" alt="Just The Slop" width="64" />       | **Just The Slop**       | Pure. Proud. Let it flow.         |
 
 ## The Algorithm
 

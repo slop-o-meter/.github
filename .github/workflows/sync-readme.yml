@@ -18,7 +18,8 @@ jobs:
         run: |
           curl -sSfL \
             https://raw.githubusercontent.com/slop-o-meter/slop-o-meter/main/README.md \
-            -o profile/README.md
+          | sed 's|src="docs/|src="https://raw.githubusercontent.com/slop-o-meter/slop-o-meter/main/docs/|g' \
+            > profile/README.md
 
       - name: Commit and push if changed
         run: |
